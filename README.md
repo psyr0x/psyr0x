@@ -5,9 +5,8 @@
 <h3>"Cada ação uma reação, e eu não admito falhas"</h3>
 
 <br>
-
 ### <i>Sobre mim</i>
-
+<br>
 -  **Aprendendo:** Hacking e Programação 💻	
 -  **Discord:** psyr0x#1337 📞
 -  **Meu site:** psyr0x1337.github.io 🌎
