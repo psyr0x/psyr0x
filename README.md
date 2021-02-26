@@ -2,10 +2,12 @@
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-<h4>"Cada ação uma reação, e eu não admito falhas"</h4>
-[![twitter](https://img.shields.io/badge/-@w0rm-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/psyr0x)  
+<h3>"Cada ação uma reação, e eu não admito falhas"</h3>
+
+<br>
 
 ### <i>Sobre mim</i>
 
--  **Aprendendo :** Hacking e Programação 💻	
--  **Discord :** psyr0x#1337 📞
+-  **Aprendendo:** Hacking e Programação 💻	
+-  **Discord:** psyr0x#1337 📞
+-  **Meu site:** psyr0x1337.github.io 🌎
