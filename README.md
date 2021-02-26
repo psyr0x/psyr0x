@@ -4,7 +4,7 @@
 
 ## Discord: psyr0x#1337
 
-<h5>"Cada ação, uma reação e eu não admito falhas."</h5>
+<h5>"O conhecimento é a única coisa que ninguém pode tirar de você."</h5>
 
 <br><br>
 
