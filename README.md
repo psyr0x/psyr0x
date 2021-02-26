@@ -10,5 +10,5 @@
 
 ### <i>Sobre mim</i>
 
--  **Aprendendo :** Hacking & Programação 💻	
+-  **Aprendendo :** Pentest & Programação 💻	
 -  **Site :** psyr0x1337.github.io 🌎
