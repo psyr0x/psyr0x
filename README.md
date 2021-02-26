@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou o psyr0x 👋
 
-<!--
-**psyr0x/psyr0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-Here are some ideas to get you started:
+[![twitter](https://img.shields.io/badge/-@w0rm-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/w0rm)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5>"Cada ação uma reação, e eu não admito falhas"</h5>
+
+<br><br>
+
+### <i>Sobre mim</i>
+
+-  **Aprendendo :** Hacking e Programação 💻	
+-  **Discord :** psyr0x#1337 📞
+
+<p align="center">
+  <img alt="w0rm" src="https://github-readme-stats.vercel.app/api?username=w0rm2021&show_icons=true&theme=radical">
+</p>
