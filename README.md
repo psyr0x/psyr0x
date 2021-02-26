@@ -12,7 +12,3 @@
 
 -  **Aprendendo :** Hacking & Programação 💻	
 -  **Site :** psyr0x1337.github.io 🌎
-
-<p align="center">
-  <img alt="w0rm" src="https://github-readme-stats.vercel.app/api?username=w0rm2021&show_icons=true&theme=radical">
-</p>
