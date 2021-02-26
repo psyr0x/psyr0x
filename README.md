@@ -2,9 +2,11 @@
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-<h3>"Cada ação uma reação, e eu não admito falhas"</h3>
+<h5>"Cada ação uma reação, e eu não admito falhas"</h5>
+
 <br>
 <br>
+
 ### <i>Sobre mim</i>
 
 -  **Aprendendo:** Hacking e Programação 💻	
