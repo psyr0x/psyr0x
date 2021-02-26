@@ -1,4 +1,4 @@
-### Olá, eu sou o w0rm 👋
+### Olá, eu sou o psyr0x 👋
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
